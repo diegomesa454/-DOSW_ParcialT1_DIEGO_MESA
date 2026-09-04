@@ -18,3 +18,5 @@ vamosa a usar este patron de diseño para que una vez confirmada la tutoria envi
 (docs/uml/diagrama_de_clases.png)
 # . - justificacion 
 estamos usando dos principios de solid el open/closed porque nuestro proyecto queda abierto para añadir nuevas funcionalidades o cosas por el estilo y single responsability porque notifyne solo tiene la tarea de enviar el mensaje al profesor y al estudiante apenas confirme la tutoria
+# . - espacio en jira
+https://mail-team-wqanzlks.atlassian.net/jira/software/projects/PD/boards/2/backlog?atlOrigin=eyJpIjoiNDllODNiZWYxOGZjNDY2Nzg1ZWY5ZWRhZDY4OWFmZTIiLCJwIjoiaiJ9
